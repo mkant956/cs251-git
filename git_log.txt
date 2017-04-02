@@ -1,0 +1,124 @@
+commit bbd0dc4cbfb609caae9fcdda5f6c9091b0cdb274
+Merge: c0a2d16 e53e83f
+Author: mkant956eval <kantmadhu956@gmail.com>
+Date:   Sun Apr 2 19:55:55 2017 +0530
+
+    Merge branch 'master' of https://github.com/mkant956/cs251-git
+    
+    pullingwhen nilesh has pushed
+
+commit c0a2d164482a754907993120253b41a7466fa4ff
+Merge: 6a85470 2c0c39e
+Author: mkant956eval <kantmadhu956@gmail.com>
+Date:   Sun Apr 2 19:52:41 2017 +0530
+
+    Merge branch 'mkbranch'
+    branch of AS is pulled and nilesh has already pushed the updated one but i m pushing the updated version in AS.
+
+commit e53e83f94aa652958343fc2b1098d793d651fa2a
+Merge: 6a85470 bf3ea22
+Author: nileshv1997 <nileshv1997@gmail.com>
+Date:   Sun Apr 2 19:50:34 2017 +0530
+
+    Merge branch 'nilbranch'
+    merging my_branchAS nilbranch with love
+
+commit bf3ea2251bd4b17c9c24e02b135ccdb2c41c98ef
+Author: nileshv1997 <nileshv1997@gmail.com>
+Date:   Sun Apr 2 19:46:05 2017 +0530
+
+    again pushing
+
+commit 6a85470800ae7bdada2d1296139d3fb62011df0c
+Author: abhinav008 <abhinav.encore2@gmail.com>
+Date:   Sun Apr 2 19:31:11 2017 +0530
+
+    testing some random changes
+
+commit 92516f925385a61a6e497d2f1bd24e1a21f710c7
+Author: nileshv1997 <nileshv1997@gmail.com>
+Date:   Sun Apr 2 19:30:39 2017 +0530
+
+    Changed the first movie
+
+commit 2c0c39e51326b13c80ca25210e56c681cd1de36f
+Author: mkant956eval <kantmadhu956@gmail.com>
+Date:   Sun Apr 2 19:29:38 2017 +0530
+
+    first time branch commit by mk
+
+commit cbdbd01dc30ccf5f8b0d760ef360cce7662f0073
+Merge: 7004c3d c73f97e
+Author: nileshv1997 <nileshv1997@gmail.com>
+Date:   Sun Apr 2 19:15:26 2017 +0530
+
+    Final change of the day
+
+commit c73f97e43133b25526bfdf239db74e07dbca6d2d
+Merge: a1e7bb7 47a24c4
+Author: mkant956eval <kantmadhu956@gmail.com>
+Date:   Sun Apr 2 18:54:14 2017 +0530
+
+    try
+
+commit 7004c3d676e64cf5e6b190d5311dc9ae8dccd89f
+Author: nileshv1997 <nileshv1997@gmail.com>
+Date:   Sun Apr 2 18:51:47 2017 +0530
+
+    Last line content changed
+
+commit a1e7bb7efd161cf4e65db8ae882a579669746df2
+Author: mkant956eval <kantmadhu956@gmail.com>
+Date:   Sun Apr 2 18:47:16 2017 +0530
+
+    mk commit :_
+
+commit 47a24c49f56390704fed59937ef17942ba92ca01
+Merge: 77eef87 f640d89
+Author: abhinav008 <abhinav.encore2@gmail.com>
+Date:   Sun Apr 2 18:36:20 2017 +0530
+
+    Merge branch 'master' of https://github.com/mkant956/cs251-git
+    merging for the first time.
+
+commit 77eef87d36ae79ae08ea986de4db806c68071a13
+Author: abhinav008 <abhinav.encore2@gmail.com>
+Date:   Sun Apr 2 18:33:10 2017 +0530
+
+    corrected spellings
+
+commit 94b39254e18afbce87025c59186c6fb6d400e5c5
+Author: mkant956eval <kantmadhu956@gmail.com>
+Date:   Sun Apr 2 18:32:45 2017 +0530
+
+    mk commits
+
+commit f640d89bfa1e37b15c956e2acb7c0ed26130ef78
+Author: nileshv1997 <nileshv1997@gmail.com>
+Date:   Sun Apr 2 18:30:15 2017 +0530
+
+    modified authors
+
+commit 6e433fb7d4bfe95476dd253a0c426bfa05d93acc
+Author: abhinav008 <abhinav.encore2@gmail.com>
+Date:   Sun Apr 2 18:20:09 2017 +0530
+
+    changes made to the authors and contents
+
+commit b09ac80b795339e40f162891727af572a195543a
+Author: mkant956eval <kantmadhu956@gmail.com>
+Date:   Sun Apr 2 18:17:36 2017 +0530
+
+    mk commits
+
+commit d50ddac6c5acf143a30b6f6d30d19456dd0f7577
+Author: abhinav008 <abhinav.encore2@gmail.com>
+Date:   Sun Apr 2 18:12:02 2017 +0530
+
+    my review 1
+
+commit 0be0f1845fd32212b24f7b5e8fdec43a5f49ad08
+Author: abhinav008 <abhinav.encore2@gmail.com>
+Date:   Sun Apr 2 17:47:24 2017 +0530
+
+    first commit
